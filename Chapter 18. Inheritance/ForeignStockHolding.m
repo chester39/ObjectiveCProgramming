@@ -1,7 +1,7 @@
 //
 //	Objective-C Programming: The Big Nerd Ranch Guide
 //		Aaron Hillegass
-//		Chen Chen @ March 21th, 2015
+//		Chen Chen @ March 22nd, 2015
 //
 
 #import "ForeignStockHolding.h"
